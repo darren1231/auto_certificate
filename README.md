@@ -51,6 +51,8 @@ The application has two main panels:
 1. **Template Selection Panel (Left)**: Manage and select templates to execute
 2. **Template Configuration Panel (Right)**: Configure selected template details
 
+![Auto Certificate Generator Interface](example.png)
+
 ### Creating a Template
 
 1. **Add a new template**:
